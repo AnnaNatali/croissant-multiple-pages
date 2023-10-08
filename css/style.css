@@ -9,3 +9,9 @@ footer {
   text-align: center;
   color: purple;
 }
+.croissant-photo {
+  max-width: 80%;
+  border-radius: 10px;
+  display: block;
+  margin: 40px auto;
+}
