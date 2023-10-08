@@ -9,6 +9,9 @@ footer {
   text-align: center;
   color: purple;
 }
+footer a {
+  margin: 0 15px;
+}
 .croissant-photo {
   max-width: 80%;
   border-radius: 10px;
